@@ -45,6 +45,27 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 # Survey
 
+**Imbalance Problems in Object Detection: A Review**
+
+- intro: under review at TPAMI
+- arXiv: <https://arxiv.org/abs/1909.00169>
+
+**Recent Advances in Deep Learning for Object Detection**
+
+- intro: From 2013 (OverFeat) to 2019 (DetNAS)
+- arXiv: <https://arxiv.org/abs/1908.03673>
+
+**A Survey of Deep Learning-based Object Detection**
+
+- intro：From Fast R-CNN to NAS-FPN
+
+- arXiv：<https://arxiv.org/abs/1907.09408>
+
+**Object Detection in 20 Years: A Survey**
+
+- intro：This work has been submitted to the IEEE TPAMI for possible publication
+- arXiv：<https://arxiv.org/abs/1905.05055>
+
 **《Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks》**
 
 - intro: awesome
@@ -831,7 +852,7 @@ https://github.com/Robert-JunWang/Pelee
 - github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection
 
 
-## ZSD
+## ZSD（Zero-Shot Object Detection）
 
 **Zero-Shot Detection**
 
@@ -851,7 +872,11 @@ https://github.com/Robert-JunWang/Pelee
 
 - arxiv: https://arxiv.org/abs/1805.06157
 
-## OSD
+## OSD（One-Shot Object Detection）
+
+**Comparison Network for One-Shot Conditional Object Detection**
+
+- arXiv: https://arxiv.org/abs/1904.02317
 
 **One-Shot Object Detection**
 
@@ -886,6 +911,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - github: https://github.com/yihui-he/softer-NMS
 
 ## 2019
+
+**Feature Selective Anchor-Free Module for Single-Shot Object Detection**
+
+- intro: CVPR 2019
+
+- arXiv: https://arxiv.org/abs/1903.00621
 
 **Object Detection based on Region Decomposition and Assembly**
 
@@ -1087,7 +1118,6 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 # Detection Toolbox
 
 - [Detectron(FAIR)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.
-
+- [Detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 - [maskrcnn-benchmark(FAIR)](https://github.com/facebookresearch/maskrcnn-benchmark): Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
-
 - [mmdetection(SenseTime&CUHK)](https://github.com/open-mmlab/mmdetection): mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).

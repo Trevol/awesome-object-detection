@@ -1,3 +1,53 @@
+2019-10-11 Update 1 Project
+
+**Detectron2**
+
+- intro: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+- [blog](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
+- code: <https://github.com/facebookresearch/detectron2>
+
+2019-09-06 Update 1 paper
+
+**Imbalance Problems in Object Detection: A Review**
+
+- intro: under review at TPAMI
+- arXiv: <https://arxiv.org/abs/1909.00169>
+
+2019-08-14 Update 1 paper
+
+**Recent Advances in Deep Learning for Object Detection**
+
+- intro: From 2013 (OverFeat) to 2019 (DetNAS)
+- arXiv: <https://arxiv.org/abs/1908.03673>
+
+2019-07-24 Update 1 paper
+
+**A Survey of Deep Learning-based Object Detection**
+
+- intro：From Fast R-CNN to NAS-FPN
+
+- arXiv：<https://arxiv.org/abs/1907.09408>
+
+2019-05-17 Update 1 paper
+
+**Object Detection in 20 Years: A Survey**
+
+- intro：This work has been submitted to the IEEE TPAMI for possible publication
+- arXiv：<https://arxiv.org/abs/1905.05055>
+
+2019-04-05 Update 1 paper
+
+**Comparison Network for One-Shot Conditional Object Detection**
+
+- arXiv: https://arxiv.org/abs/1904.02317
+
+2019-03-05 Update 1 paper
+
+**Feature Selective Anchor-Free Module for Single-Shot Object Detection**
+
+- intro: CVPR 2019
+- arXiv: https://arxiv.org/abs/1903.00621
+
 2019-02-15 Update 3 detection toolbox
 
 - [Detectron(FAIR)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.
